@@ -6,6 +6,6 @@ Hi! I'm Kate:
 
 Check out my [professional profile (Google Slides)](https://docs.google.com/presentation/d/1a66qnObg1pWMqD2QRX2OJgtLp2UzmESN0tmtQ_sPMaM/view?usp=sharing).
 
-Check out my live stream [twitch.tv/phobosdream](https://www.twitch.tv/phobosdream).
+Check out my live streams [twitch.tv/phobosdream](https://www.twitch.tv/phobosdream).
 
 Try [Pakrypt](https://app.pakrypt.com/) for your data encryption needs!
