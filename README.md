@@ -8,4 +8,6 @@ Check out my [professional profile (Google Slides)](https://docs.google.com/pres
 
 Check out my live streams [twitch.tv/phobosdream](https://www.twitch.tv/phobosdream).
 
-Try [Pakrypt](https://app.pakrypt.com/) for your data encryption needs!
+Try [Pakrypt](https://www.pakrypt.com/) for your data encryption needs!
+
+Cast your vote: [Lines vs. Strips](https://lvs.cochleoid.com/)!
