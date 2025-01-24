@@ -6,6 +6,6 @@ Hi! I'm Kate:
   - Ask questions at [github.com/fractalate/phobosdream](https://github.com/fractalate/phobosdream).
 * I'm studying mathematics, physics, and computer science for the love of the fields.
 * I'm interested in data science, machine learning, artificial intelligence, visualization, simulation, and numerical analysis.
-Try [Pakrypt](https://www.pakrypt.com/) for your data encryption needs!
+* Try [Pakrypt](https://www.pakrypt.com/) for your data encryption needs!
 
 Cast your vote: [Lines vs. Strips](https://lvs.cochleoid.com/)!
