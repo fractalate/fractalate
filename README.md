@@ -1,11 +1,22 @@
 Hi! I'm Kate:
 
-* I'm interested in software that facilitates private ownership of users' data.
-* I'm a mathematics and programming live streamer.
-  - Watch me at [twitch.tv/phobosdream](https://www.twitch.tv/phobosdream).
-  - Learn more about the stream at [github.com/fractalate/phobosdream](https://github.com/fractalate/phobosdream).
-* I'm studying material science and physics to create simulations of physical processes.
-* I'm interested in numerical analysis, simulation, visualization, data science, machine learning, and artificial intelligence.
-* Try [Pakrypt](https://www.pakrypt.com/) for your data encryption needs!
+I'm a mathematics and programming live streamer with a variety of focuses including problem solving, data analysis, and numeric simulations. You'll see me working through my studies in a variety of subjects as well as engaging with open-ended research and data visualization. Sometimes we have special events like code roasts where I give a comical and critical review of submitted projects.
 
-Cast your vote: [Lines vs. Strips](https://lvs.cochleoid.com/)!
+Check out my streams on [Twitch](https://www.twitch.tv/phobosdream)!
+
+Take a look at some of my work:
+
+* Computational Physics
+  - [Newman, Computational Physics](https://github.com/fractalate/study-newman-computational-physics)
+  - [Simulation of an Accelerometer in Space](https://github.com/fractalate/simulation-accelerometer-in-space)
+  - [Simulation of Crystal Lattice Formation](https://github.com/fractalate/simulation-crystal-lattice-formation)
+  - [Simulation of the Heat Equation](https://github.com/fractalate/simulation-heat-equation-1d)
+* Data Analysis and Visualization
+  - [Trees of Chicago](https://github.com/fractalate/data-trees-chicago)
+  - [Trees of New York](https://github.com/fractalate/data-trees-new-york)
+  - [Trees of Pittsburgh](https://github.com/fractalate/data-trees-pittsburgh)
+  - [Trees of Seattle](https://github.com/fractalate/data-trees-seattle)
+* Problem Sets
+  - [Several Problems](https://github.com/fractalate/several-problems)
+* Software
+  - [Pakrypt](https://www.pakrypt.com/)
